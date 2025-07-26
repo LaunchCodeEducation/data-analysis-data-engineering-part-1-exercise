@@ -23,3 +23,4 @@ Each dataset is organized into a folder containing .csv files for all parts of t
 ## Deliverable:
 
 - When you are done, create a .txt file named `dataset-[dataset number]-solution.txt` for each dataset and paste in your final dbdiagram.io ERD code into the file
+- Push your changes to the Github repo you created for this exercise, and submit a link to your repo in Canvas
