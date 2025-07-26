@@ -1,0 +1,13 @@
+appointment_id,patient_id,provider_id,appt_datetime,reason,copay_amount
+1,1,101,2025-02-10 09:00,Annual exam,20.0
+2,1,103,2025-02-24 11:30,Flu symptoms,$20
+3,2,101,next Monday 09:00,Follow-up,0.0
+4,3,102,2025/03/05 14:15,Child checkup,waived
+5,4,104,2025-03-12 10:45,Rash,15.0
+6,5,101,2025-03-19 08:30,Annual exam,20.0
+7,6,103,2025-03-19 10:00,Sprain,10.0
+8,7,104,2025-03-26 09:15,Skin check,15.0
+9,8,104,2025-04-02 16:00,Consult,15.0
+10,8,101,2025-04-09 13:00,Follow-up,0
+11,2,102,2025-04-15 15:45,Pediatric consult,5
+12,3,101,2025-04-22 09:30,Lab results,0

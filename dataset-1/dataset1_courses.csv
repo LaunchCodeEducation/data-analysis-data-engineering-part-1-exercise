@@ -1,0 +1,7 @@
+course_id,title,department,credits,start_date
+101,Intro to Data,DS,3,2025-09-01
+102,Data Wrangling,DS,3,2025-09-01
+103,SQL Basics,CS,3.0,2025-09-01
+104,Statistics I,MATH,4,TBD
+105,Python I,CS,3,2025/09/01
+106,Visualization,DS,3,"September 1, 2025"

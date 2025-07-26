@@ -1,0 +1,11 @@
+student_id,first_name,last_name,email,phone,age
+1,Alex,Reed,alex.reed@example.edu,3145551200,19
+2,Jordan,Cole,jordan.cole@example.edu,(314) 555-1201,20 years
+3,Sam,Nguyen,sam.nguyen@example.edu,314-555-1202,21
+4,Taylor,Kim,taylor.kim@example.edu,3145551203,22
+5,Morgan,Lee,morgan.lee@example.edu,314 555 1204,twenty-three
+6,Casey,Patel,casey.patel@example.edu,3145551205,24
+7,Riley,Hernandez,riley.h@example.edu,3145551206,20
+8,Jamie,Brown,jamie.brown@example.edu,3145551207,18
+9,Quinn,Garcia,quinn.g@example.edu,N/A,19
+10,Avery,Davis,avery.d@example.edu,3145551209,25

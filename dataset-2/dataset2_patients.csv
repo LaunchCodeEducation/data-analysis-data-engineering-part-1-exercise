@@ -1,0 +1,9 @@
+patient_id,full_name,birthdate,email,height_cm
+1,Chris Miller,1989-03-11,chris.m@example.com,178
+2,Dana Ortiz,unknown,dana.ortiz@example.com,165
+3,Lee Chen,1975/07/20,lee.chen@example.com,170
+4,Pat O'Neil,1991-10-05,pat.oneil@example.com,170cm
+5,Alexis Ray,1999-12-31,alexis.ray@example.com,160
+6,Taylor Singh,2001-01-01,taylor.s@example.com,182
+7,Rene Alvarez,1983-05-22,rene.a@example.com,175
+8,Jordan Price,1995-08-15,jordan.p@example.com,168

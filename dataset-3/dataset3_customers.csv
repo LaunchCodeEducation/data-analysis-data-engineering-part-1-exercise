@@ -1,0 +1,7 @@
+customer_id,full_name,email,phone,zip_code
+1,Kota Rivera,kota.r@example.com,5551238888,63101
+2,Brooklyn James,brooklyn.j@example.com,555-123-7777,63102-1234
+3,Reese Carter,reese.c@example.com,(555) 123-6666,63103
+4,Noah Patel,noah.p@example.com,555 123 5555,63104
+5,Maya Singh,maya.s@example.com,5551234444,N/A
+6,Owen Taylor,owen.t@example.com,5551233333,63105

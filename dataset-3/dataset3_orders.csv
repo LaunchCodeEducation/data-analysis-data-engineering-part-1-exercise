@@ -1,0 +1,8 @@
+order_id,customer_id,order_date,status
+1001,1,2025-05-01,paid
+1002,2,03/15/2025,paid
+1003,3,2025-05-03T10:20:00,shipped
+1004,1,yesterday,pending
+1005,4,2025-05-07,paid
+1006,5,2025/05/10,canceled
+1007,6,"May 12, 2025",paid
